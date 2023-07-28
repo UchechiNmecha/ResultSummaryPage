@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://your-solution-url.com)
+- Live Site URL: [Live site](https://result-summary-page-uc.netlify.app/)
 
 ## My process
 
@@ -41,11 +41,11 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Google Fonts](https://fonts.google.com/)
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- LinkedIn - [Uchechi Nmecha](https://www.linkedin.com/in/uchechi-nmecha-15743421b)
+- Frontend Mentor - [@UchechiNmecha](https://www.frontendmentor.io/profile/UchechiNmecha)
+- Twitter - [@NmechaUchechi](https://www.twitter.com/NmechaUchechi)
